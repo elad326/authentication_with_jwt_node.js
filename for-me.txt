@@ -1,0 +1,33 @@
+הפלייליסט :
+---------------
+
+https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu
+
+הסרטון :
+----------
+
+https://youtu.be/7nafaH9SddU?si=aNd6zd6moajKKUbo
+
+
+התקנת קובץ package.json:
+-----------------------
+npm init 
+
+התקנת תלויות :
+---------------
+npm install express jsonwebtoken
+
+npm i -g nodemon
+
+להריץ סרבר :
+--------------
+לרשום בטרמינל -- nodemon
+
+ולהכנס ל 
+http://localhost:5000/api
+
+
+
+
+**************
+עצרתי בדקה  19 
